@@ -1,5 +1,5 @@
-## MNIST-dataset-classification
-# Explanation in korean
+# MNIST-dataset-classification
+## Explanation in korean
 2nd problem of assignment "차량지능기초"
 
 먼저 mnist의 기본예제를 통해 기본 구조를 익히고 넘어가자.
